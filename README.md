@@ -1,7 +1,9 @@
 👋 Hey there! I'm Aryan Tiwari
+
 🚀 AI Engineer | Machine Learning Enthusiast | Competitive Programmer
 
 🧑‍🎓 Education
+
 🎓 B.Tech in Artificial Intelligence and Data Science - IIT Jodhpur (2020-2024)
 
 💻 Tech Stack
@@ -27,6 +29,7 @@ Competitive Programming & Problem-Solving
 Data Engineering & Big Data Analytics
 
 📬 How to Reach Me
+
 📧 Email: tiwariaryan066@gmail.com
 <!---
 AryanTiwarii/AryanTiwarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
