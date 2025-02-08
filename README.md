@@ -1,6 +1,8 @@
-👋 Hey there! I'm Aryan Tiwari
+👋 Hey there!
 
-🚀 AI Engineer | Machine Learning Enthusiast | Competitive Programmer
+I'm Aryan Tiwari
+
+AI Engineer | Deep Learning Enthusiast 
 
 🧑‍🎓 Education
 
