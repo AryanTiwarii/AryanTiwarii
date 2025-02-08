@@ -8,7 +8,9 @@
 🔹 Languages: C++, Python, R, C, Java, JavaScript, MATLAB
 🔹 Machine Learning & AI: Pytorch, TensorFlow, OpenCV, NLTK, Hugging Face, Ollama
 🔹 Data Technologies: SQL, Neo4j, Databricks, Hadoop, Pinecone, ChromaDB
+
 🔹 Cloud & MLOps: AWS, Azure, GCP, Docker, Slurm HPC
+
 🔹 Other Tools: Git, Flask, Tableau, PowerBI, LaTeX
 
 🔍 Interests
@@ -16,6 +18,7 @@ AI/ML Research (Deep Learning, Reinforcement Learning, NLP)
 Large Language Models & RAG Systems
 Competitive Programming & Problem-Solving
 Data Engineering & Big Data Analytics
+
 📬 How to Reach Me
 📧 Email: tiwariaryan066@gmail.com
 <!---
